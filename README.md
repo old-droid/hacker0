@@ -18,7 +18,7 @@ an powerful jack of all trades hacking and OSNIT tool for  noobs
 2.  Run the simulator:
 
     ```bash
-    python simulator.py
+    main.py
     ```
 
 3.  You will be prompted to enter the admin password (`gamma`) to access the main menu.
