@@ -1,0 +1,7 @@
+requests
+PySocks
+psutil
+networkx
+keyboard
+duckduckgo-search
+beautifulsoup4
